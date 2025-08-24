@@ -18,8 +18,7 @@ This repository contains automated end-to-end tests for the login, catalog, prod
 1- Clone the repository:
 
 ```http
-  git clone https://github.com/xxx
-  cd qa_finaltask
+  git clone https://github.com/projects-root/cypress/qa_camptask
 ```
 2- Install the dependencies:
 
