@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruthrecalde-ad/qa_finaltask.git"
+    "url": "git+https://github.com/projects-root/cypress/qa_camptask.git"
   },
   "keywords": [
     "automation",
@@ -18,9 +18,9 @@
   "author": "root",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ruthrecalde-ad/qa_finaltask/issues"
+    "url": "https://github.com/projects-root/cypress/qa_camptask/issues"
   },
-  "homepage": "https://github.com/ruthrecalde-ad/qa_finaltask#readme",
+  "homepage": "https://github.com/projects-root/cypress/qa_camptask#readme",
   "dependencies": {
     "cypress": "^13.8.1"
   }
